@@ -1,1 +1,1 @@
-# git-github
+Details of the repository are given here!
